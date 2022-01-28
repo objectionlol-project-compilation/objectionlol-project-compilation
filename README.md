@@ -8,7 +8,7 @@ You can suggest your own projects.
 
 I will list non program projects too.
 
-**Some projects do not have licenses, which means you can't use code or art or music created by the person without their permission, read more here: https://choosealicense.com/no-permission/ **
+**Some projects do not have licenses, which means you can't use code or art or music created by the person without their permission, read more here: https://choosealicense.com/no-permission/**
 
 <!---
 objectionlol-project-compilation/objectionlol-project-compilation is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
